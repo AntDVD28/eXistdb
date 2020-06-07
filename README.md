@@ -9,7 +9,9 @@ El trabajo desarrollado consistía en:
 - realización de diferentes consultas con XQuery y XPath, utilizando expresiones FLWOR
 - uso de sentencias de actualización (INSERT, DELETE y REPLACE)
 
-Incluimos carpeta llamada BDCursillosXML que incluye los datos a agregar a la colección.
+Incluimos carpeta llamada BDCursillosXML que incluye los datos a agregar a la colección. Además dichas carpeta incluye scripts con diferentes ejemplos.
+
+Inclimos scripts solicitados en la tarea correspondiente a los pasos 4 y 5.
 
 Pasos a seguir:
 
