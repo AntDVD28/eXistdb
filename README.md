@@ -5,7 +5,7 @@ Trabajo correspondiente a la asignatura AD (Acceso a Datos) perteneciente a la t
 
 El trabajo desarrollado consistía en:
 
-- conocer el SGBD eXistdb
+- conocer un poco el SGBD eXistdb, estructura y funcionamiento.
 - realización de diferentes consultas con XQuery y XPath, utilizando expresiones FLWOR
 - uso de sentencias de actualización (INSERT, DELETE y REPLACE)
 
