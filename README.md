@@ -21,7 +21,7 @@ Pasos a seguir:
 
 4. Crear diferentes scripts que realicen las siguientes consultas a la BD utilizando expresiones FLWOR
 
-  -- Ocupación diaria del aula 3, indicando el curso y profesor.
+    - Ocupación diaria del aula 3, indicando el curso y profesor.
   - Profesores que imparten cursos con cuotas anuales y su precio es superior a 300 euros. Mostrar profesor, curso, y precio.
   - Mostrar todos los cursos que se imparten en el aula 2.
   - Mostrar el nombre de los cursos entre etiquetas xml MANIANA si se imparten en horario de mañana y entre etiquetas xml TARDE si se      imparten por la tarde. El resultado debe de aparecer ordenado alfabéticamente. Se considera que un curso es impartido por la tarde si  su hora de comienzo es mayor a las 12:00.
